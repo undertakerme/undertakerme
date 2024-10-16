@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **UX Designing**
 
-- 💬 Ask me about **Python, java, C++, HTML, MySQL, UX-design**
+- 💬 Ask me about **Python, java, C++, HTML, CSS, Flask , Django , MySQL, UX-design**
 
 - 📫 How to reach me **undertakerme5@gmail.com**
 
